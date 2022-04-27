@@ -4,3 +4,20 @@ ctrl+`: vào terminal
 git status: check trạng thái
 git add .: thêm hết file đang làm vào khu vực lưu tạm thời
 git commit -m "tên commit"
+git log --oneline
+
+…or create a new repository on the command line
+echo "# frontend-web" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nguyenhungf/frontend-web.git
+git push -u origin main
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/nguyenhungf/frontend-web.git
+git branch -M main
+git push -u origin main
