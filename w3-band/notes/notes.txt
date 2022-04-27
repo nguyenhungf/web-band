@@ -1,0 +1,2 @@
+1. cách vào 1 file nhanh: ctrl+p 
+ctrl+`: vào terminal
