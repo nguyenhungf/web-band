@@ -1,2 +1,6 @@
 1. cách vào 1 file nhanh: ctrl+p 
 ctrl+`: vào terminal
+2. Dùng git
+git status: check trạng thái
+git add .: thêm hết file đang làm vào khu vực lưu tạm thời
+git commit -m "tên commit"
