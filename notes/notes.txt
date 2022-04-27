@@ -5,6 +5,9 @@ git status: check trạng thái
 git add .: thêm hết file đang làm vào khu vực lưu tạm thời
 git commit -m "tên commit"
 git log --oneline
+git push: đưa lên web
+
+https://nguyenhungf.github.io/frontend-web/w3-band/
 
 …or create a new repository on the command line
 echo "# frontend-web" >> README.md
