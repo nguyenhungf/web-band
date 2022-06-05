@@ -2,5 +2,47 @@
     #nav > li{
         display: block;
     }
+    #header .mobile-menu-btn{
+        display: block;
+    }
+    #header .search-btn{
+        display: none;
+    }
+        
+    #content .member-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    #content .member-img{
+        width: 60%;
+    }
+    #content .content-section{
+        padding-bottom: 20px;
+    }
+    .place-list .place-item {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+    .contact-info{
+        width: 100%;
+        margin-bottom: 16px;
+
+    }
+    .contact-form {
+        width: 100%;
+    }
+    .col-half{
+        width: 100%;
+    }
+    .s-mt-8{
+        margin-top: 8px !important;
+    }
+    .from-sub {
+        width: 100%;
+    }
+    .place-btn{
+        width: 100%;
+        text-align: center;
+    }
 
 }
